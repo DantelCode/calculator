@@ -13,7 +13,8 @@ This repository provides a lightweight, professional calculator UI that supports
 - Animated starry background implemented with Canvas for lightweight visuals
 - Accessibility improvements: ARIA attributes, focus styles, and readable font sizes
 
-### Live site: [here](http://calculator-lac-zeta-88.vercel.app/)
+## Live Preview
+Open `index.html` in your favorite browser. The application is purely static so no server is required, but running a small local HTTP server is recommended for a more accurate development environment.
 
 ## Getting Started (Development)
 1. Clone or download the repository.
@@ -65,5 +66,4 @@ Contributions are welcome. Please open issues for suggestions or bug reports and
 - Optional: Add scientific functions (sin/cos/tan, log, etc.) and more customizable themes
 
 ## Screenshots
-![Calculator Screenshot](https://github.com/DantelCode/calculator/blob/main/api/screenshots/1.png)
-
+![Calculator Screenshot](https://github.com/DantelCode/calculator/blob/main/screenshots/1.png)
